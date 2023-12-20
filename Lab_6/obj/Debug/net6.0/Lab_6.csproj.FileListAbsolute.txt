@@ -1,0 +1,15 @@
+D:\Forestry\OOAP\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.exe
+D:\Forestry\OOAP\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.deps.json
+D:\Forestry\OOAP\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.runtimeconfig.json
+D:\Forestry\OOAP\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.dll
+D:\Forestry\OOAP\Lab_6\Lab_6\bin\Debug\net6.0\Lab_6.pdb
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.csproj.AssemblyReference.cache
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.AssemblyInfoInputs.cache
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.AssemblyInfo.cs
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.csproj.CoreCompileInputs.cache
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.dll
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\refint\Lab_6.dll
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.pdb
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\Lab_6.genruntimeconfig.cache
+D:\Forestry\OOAP\Lab_6\Lab_6\obj\Debug\net6.0\ref\Lab_6.dll
