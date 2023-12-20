@@ -10,7 +10,7 @@ namespace Lab_6
     {
         void ConsolePrint()
         {
-            Console.WriteLine("Hello, its ConsolePrint method");
+            Console.WriteLine("Hello, its ConsolePrint method for feature");
         }
     }
 }
